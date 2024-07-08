@@ -1,0 +1,5 @@
+.venv/
+testing/*.fasta
+tmp_trainer/
+**/__pycache__/
+models/**/
